@@ -4,6 +4,7 @@ import ChatInput from './ChatInput'
 import CTA from './CTA'
 import FunctionalityCard from './FunctionalityCard'
 import SidebarButton from './SidebarButton'
+import Container from './Container'
 
 
 
@@ -14,4 +15,5 @@ export {
   ChatInput,
   FunctionalityCard,
   SidebarButton,
+  Container
 }
