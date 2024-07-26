@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@layer components {
+  .btn {
+    @apply flex items-center gap-4 h-[48px] hover:bg-white/5 transition-all duration-300 w-full rounded-md px-4;
+  }
+
+  .span {
+    background: linear-gradient(40deg, #FA6CD2cc, #222222);
+    padding-left: 8px;
+    border-left: 6px #FA6CD2 solid;
+  }
+
+  .input {
+    border-color: linear-gradient(40deg, red, #222222);
+  }
+}
