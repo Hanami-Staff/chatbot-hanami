@@ -44,7 +44,7 @@ Este projeto é realizado por ex-alunos do curso Recode Pro, que agora fazem par
 - [Bruna Lorena](https://www.github.com/gama07)
 - [Adrian Roger](https://github.com/AdrianRoger)
 - [Aira Lima](https://github.com/airaarima)
-- [Jeferson Smith](https://github.com/JefersonSmithDavid)
+- [Jeferson Smith](https://github.com/JefersonSmith)
 - [David Coelho](https://github.com/RabbitDeWitt)
 - [Natacha Carvalho](https://github.com/opanatacha)
 
