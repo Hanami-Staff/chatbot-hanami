@@ -8,10 +8,10 @@ export const BotProvider = ({ children }) => {
   const [question, setQuestion] = useState("");
   const [answer, setAnswer] = useState("");
   const [reader, setReader] = useState(null);
-  const [isNew, setIsNew] = useState(true);
 
   const startQuestion = () => {
-    setIsNew(false);
+    // TODO: code here
+    console.log('clicou em enviar');
   };
 
   useEffect(() => {
@@ -90,9 +90,8 @@ export const BotProvider = ({ children }) => {
         isStreaming,
         cancelStream,
         setQuestion,
-        answer,
         startQuestion,
-        isNew,
+        answer,
       }}
     >
       {children}

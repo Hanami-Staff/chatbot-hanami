@@ -15,8 +15,7 @@ const StartChat = () => {
           </h1>
 
           <p className="mt-4 mb-[68px]">
-            Floresça seu conhecimento em lógica e programação com o poder da IA.{" "}
-            {`Diga: "Olá aluno, eu sou o HanaBot, em que posso ajudá-lo"`}
+            Floresça seu conhecimento em lógica e programação com o poder da IA.
           </p>
 
           <ChatInput />

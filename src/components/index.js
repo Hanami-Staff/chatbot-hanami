@@ -1,12 +1,11 @@
-import Sidebar from './Sidebar'
-import ChatCard from './ChatCard'
-import ChatInput from './ChatInput'
-import CTA from './CTA'
-import FunctionalityCard from './FunctionalityCard'
-import SidebarButton from './SidebarButton'
-import StartChat from './StartChat'
-
-
+import Sidebar from "./Sidebar";
+import ChatCard from "./ChatCard";
+import ChatInput from "./ChatInput";
+import CTA from "./CTA";
+import FunctionalityCard from "./FunctionalityCard";
+import SidebarButton from "./SidebarButton";
+import StartChat from "./StartChat";
+import Container from "./Container";
 
 export {
   Sidebar,
@@ -16,4 +15,5 @@ export {
   FunctionalityCard,
   SidebarButton,
   StartChat,
-}
+  Container,
+};
